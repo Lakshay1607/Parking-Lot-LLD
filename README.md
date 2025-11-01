@@ -2,7 +2,6 @@
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![Design](https://img.shields.io/badge/Focus-LLD%20%26%20OOP-green)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
